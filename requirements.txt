@@ -1,0 +1,6 @@
+python-dotenv
+requests
+beautifulsoup4
+tweepy
+facebook-sdk
+instaloader
